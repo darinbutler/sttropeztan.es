@@ -1,0 +1,364 @@
+{
+  "startUrls": [
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-instant-glow-bronzing-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-instant-glow-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-dark-whipped-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-express-dark-whipped-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-professional-ultra-dark-violet-mist-spray-solution-1l/",
+      "userData": {
+        "stage": "product",
+        "slug": "pro-ultra-dark-violet-1l"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-professional-express-bronzing-mist-spray-solution-1l/",
+      "userData": {
+        "stage": "product",
+        "slug": "pro-express-1l"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-professional-classic-bronzing-mist-spray-solution-1l/",
+      "userData": {
+        "stage": "product",
+        "slug": "pro-classic-1l"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-berry-sorbet-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-berry-sorbet"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-l-m/",
+      "userData": {
+        "stage": "product",
+        "slug": "gradual-classic-lm"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/gradual-tan-tinted-daily-firming-lotion/",
+      "userData": {
+        "stage": "product",
+        "slug": "gradual-tinted"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/gradual-tan-watermelon-firming-lotion/",
+      "userData": {
+        "stage": "product",
+        "slug": "gradual-watermelon"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-award-winning-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-award-winning"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-120ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-classic-120ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-express-starter-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-express-starter"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-light/",
+      "userData": {
+        "stage": "product",
+        "slug": "instant-glow-body-bronzer-light"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-medium/",
+      "userData": {
+        "stage": "product",
+        "slug": "instant-glow-body-bronzer-medium"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-luxe-body-serum-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "luxe-body-serum-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-creme-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-luxe-creme-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-tonic-glow-drops-30ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "luxe-tonic-glow-drops-30ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-classic-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-self-tan-classic"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-dark-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-dark-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-bronzing-mousse-100ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-express-100ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-mist-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "bruma-express-mist-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-body-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-purity-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-gel-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "gel-purity-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-mini-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-purity-mini"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-tan-berry-sorbet-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-berry-sorbet-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-tan-body-polish-and-exfoliator-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "body-polish-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-tan-optimiser-body-moisturiser-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "tan-optimiser-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mitt/",
+      "userData": {
+        "stage": "product",
+        "slug": "mitt-tan-remover"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "tan-remover-mousse-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-body-essentials-kit/",
+      "userData": {
+        "stage": "product",
+        "slug": "kit-ultimate-body-essentials"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-face-brush/",
+      "userData": {
+        "stage": "product",
+        "slug": "face-brush"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-sunlit-skin-bronzing-tint-tan-30ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "sunlit-skin-tint-tan-30ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-ultra-dark-violet-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-ultra-dark-violet-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-240ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-classic-240ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-express-bronzing-mousse-200ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "espuma-express-200ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-face-mist-80ml/",
+      "userData": {
+        "stage": "product",
+        "slug": "bruma-purity-face-80ml"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/st-tropez-dual-sided-luxe-tanning-applicator-mitt/",
+      "userData": {
+        "stage": "product",
+        "slug": "mitt-dual-luxe"
+      }
+    },
+    {
+      "url": "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-m-d/",
+      "userData": {
+        "stage": "product",
+        "slug": "gradual-classic-md"
+      }
+    }
+  ],
+  "globs": [],
+  "pseudoUrls": [],
+  "linkSelector": "",
+  "pageFunction": "async function pageFunction(context) {\n  const { request, $, customData, enqueueRequest, log } = context;\n  const url = request.url;\n  const ud = request.userData || {};\n  const RATE = 1.16;\n\n  // STAGE 2: retailer page -> extract GBP price\n  if (ud.stage === 'retailer') {\n    let price = null;\n    $('script[type=\"application/ld+json\"]').each((i, el) => {\n      try {\n        const j = JSON.parse($(el).contents().text() || $(el).html());\n        const arr = Array.isArray(j) ? j : (j['@graph'] || [j]);\n        arr.forEach(o => {\n          let off = o && o.offers; if (!off) return;\n          const p = Array.isArray(off) ? off[0] : off;\n          if (p && p.price && !price) price = parseFloat(String(p.price).replace(',', '.'));\n        });\n      } catch (e) {}\n    });\n    if (!price) { const m = $('meta[property=\"product:price:amount\"], meta[property=\"og:price:amount\"]').attr('content'); if (m) price = parseFloat(m); }\n    if (!price) { const t = ($('body').text().match(/£\\s?([0-9]+(?:\\.[0-9]{2})?)/) || [])[1]; if (t) price = parseFloat(t); }\n    const eur = price ? Math.round(price * RATE * 100) / 100 : null;\n    return { slug: ud.slug, retailer: (new URL(url)).hostname.replace('www.', ''), retailerUrl: url, priceGBP: price, priceEUR: eur, checkedAt: new Date().toISOString() };\n  }\n\n  // STAGE 1: St Tropez product page -> find first retailer \"Buy Now\" link and enqueue it\n  const slug = (customData && customData.urlToSlug && customData.urlToSlug[url]) || ud.slug;\n  let retailer = null;\n  $('a[href^=\"http\"]').each((i, el) => {\n    const h = $(el).attr('href') || '';\n    if (!retailer && h.indexOf('sttropeztan.com') === -1 &&\n        /boots|superdrug|amazon|lookfantastic|cultbeauty|sephora|feelunique|ulta|veryexclusive|next\\.co/i.test(h)) {\n      retailer = h.split('?')[0];\n    }\n  });\n  if (retailer) { await enqueueRequest({ url: retailer, userData: { stage: 'retailer', slug } }); return; }\n  return { slug, priceGBP: null, priceEUR: null, note: 'no retailer link found', checkedAt: new Date().toISOString() };\n}",
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ],
+    "apifyProxyCountry": "GB"
+  },
+  "maxConcurrency": 5,
+  "maxRequestRetries": 3,
+  "maxPagesPerCrawl": 120,
+  "customData": {
+    "urlToSlug": {
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-bronzing-mousse-200ml/": "espuma-instant-glow-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-bronzing-mousse-200ml": "espuma-instant-glow-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-dark-whipped-mousse-200ml/": "espuma-express-dark-whipped-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-dark-whipped-mousse-200ml": "espuma-express-dark-whipped-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-ultra-dark-violet-mist-spray-solution-1l/": "pro-ultra-dark-violet-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-ultra-dark-violet-mist-spray-solution-1l": "pro-ultra-dark-violet-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-express-bronzing-mist-spray-solution-1l/": "pro-express-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-express-bronzing-mist-spray-solution-1l": "pro-express-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-classic-bronzing-mist-spray-solution-1l/": "pro-classic-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-professional-classic-bronzing-mist-spray-solution-1l": "pro-classic-1l",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-berry-sorbet-kit/": "kit-berry-sorbet",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-berry-sorbet-kit": "kit-berry-sorbet",
+      "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-l-m/": "gradual-classic-lm",
+      "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-l-m": "gradual-classic-lm",
+      "https://sttropeztan.com/uk/product/gradual-tan-tinted-daily-firming-lotion/": "gradual-tinted",
+      "https://sttropeztan.com/uk/product/gradual-tan-tinted-daily-firming-lotion": "gradual-tinted",
+      "https://sttropeztan.com/uk/product/gradual-tan-watermelon-firming-lotion/": "gradual-watermelon",
+      "https://sttropeztan.com/uk/product/gradual-tan-watermelon-firming-lotion": "gradual-watermelon",
+      "https://sttropeztan.com/uk/product/st-tropez-award-winning-kit/": "kit-award-winning",
+      "https://sttropeztan.com/uk/product/st-tropez-award-winning-kit": "kit-award-winning",
+      "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-120ml/": "espuma-classic-120ml",
+      "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-120ml": "espuma-classic-120ml",
+      "https://sttropeztan.com/uk/product/st-tropez-express-starter-kit/": "kit-express-starter",
+      "https://sttropeztan.com/uk/product/st-tropez-express-starter-kit": "kit-express-starter",
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-light/": "instant-glow-body-bronzer-light",
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-light": "instant-glow-body-bronzer-light",
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-medium/": "instant-glow-body-bronzer-medium",
+      "https://sttropeztan.com/uk/product/st-tropez-instant-glow-body-bronzer-medium": "instant-glow-body-bronzer-medium",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-body-serum-200ml/": "luxe-body-serum-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-body-serum-200ml": "luxe-body-serum-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-creme-mousse-200ml/": "espuma-luxe-creme-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-creme-mousse-200ml": "espuma-luxe-creme-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-tonic-glow-drops-30ml/": "luxe-tonic-glow-drops-30ml",
+      "https://sttropeztan.com/uk/product/st-tropez-luxe-tan-tonic-glow-drops-30ml": "luxe-tonic-glow-drops-30ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-classic-kit/": "kit-self-tan-classic",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-classic-kit": "kit-self-tan-classic",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-dark-mousse-200ml/": "espuma-dark-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-dark-mousse-200ml": "espuma-dark-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-bronzing-mousse-100ml/": "espuma-express-100ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-bronzing-mousse-100ml": "espuma-express-100ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-mist-200ml/": "bruma-express-mist-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-express-mist-200ml": "bruma-express-mist-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-body-mousse-200ml/": "espuma-purity-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-body-mousse-200ml": "espuma-purity-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-gel-200ml/": "gel-purity-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-gel-200ml": "gel-purity-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-mini-kit/": "kit-purity-mini",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-mini-kit": "kit-purity-mini",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-berry-sorbet-mousse-200ml/": "espuma-berry-sorbet-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-berry-sorbet-mousse-200ml": "espuma-berry-sorbet-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-body-polish-and-exfoliator-200ml/": "body-polish-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-body-polish-and-exfoliator-200ml": "body-polish-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-optimiser-body-moisturiser-200ml/": "tan-optimiser-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-optimiser-body-moisturiser-200ml": "tan-optimiser-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mitt/": "mitt-tan-remover",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mitt": "mitt-tan-remover",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mousse-200ml/": "tan-remover-mousse-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-tan-remover-mousse-200ml": "tan-remover-mousse-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-body-essentials-kit/": "kit-ultimate-body-essentials",
+      "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-body-essentials-kit": "kit-ultimate-body-essentials",
+      "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-face-brush/": "face-brush",
+      "https://sttropeztan.com/uk/product/st-tropez-ultimate-tan-face-brush": "face-brush",
+      "https://sttropeztan.com/uk/product/st-tropez-sunlit-skin-bronzing-tint-tan-30ml/": "sunlit-skin-tint-tan-30ml",
+      "https://sttropeztan.com/uk/product/st-tropez-sunlit-skin-bronzing-tint-tan-30ml": "sunlit-skin-tint-tan-30ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-ultra-dark-violet-mousse-200ml/": "espuma-ultra-dark-violet-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-ultra-dark-violet-mousse-200ml": "espuma-ultra-dark-violet-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-240ml/": "espuma-classic-240ml",
+      "https://sttropeztan.com/uk/product/st-tropez-classic-bronzing-mousse-240ml": "espuma-classic-240ml",
+      "https://sttropeztan.com/uk/product/st-tropez-express-bronzing-mousse-200ml/": "espuma-express-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-express-bronzing-mousse-200ml": "espuma-express-200ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-face-mist-80ml/": "bruma-purity-face-80ml",
+      "https://sttropeztan.com/uk/product/st-tropez-self-tan-purity-face-mist-80ml": "bruma-purity-face-80ml",
+      "https://sttropeztan.com/uk/product/st-tropez-dual-sided-luxe-tanning-applicator-mitt/": "mitt-dual-luxe",
+      "https://sttropeztan.com/uk/product/st-tropez-dual-sided-luxe-tanning-applicator-mitt": "mitt-dual-luxe",
+      "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-m-d/": "gradual-classic-md",
+      "https://sttropeztan.com/uk/product/gradual-tan-classic-daily-firming-lotion-m-d": "gradual-classic-md"
+    }
+  }
+}
